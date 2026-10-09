@@ -6,11 +6,11 @@ A free SSH terminal and SFTP client for your Mac.
 
 ## Install
 
-1. Download **Midnight-Terminal-0.1.102-mac-universal.dmg** from Releases.
+1. Download **Midnight-Terminal-0.1.102-mac-arm64.dmg** from Releases.
 2. Open the DMG and drag **MidnightAI Terminal.app** into **Applications**.
 3. Open **Midnight Terminal** from Applications. Quit any running copy before replacing it.
 
-Supports **Apple Silicon and Intel Macs** running **macOS 12 or later**. The app and DMG are Developer ID signed and notarized by Apple.
+Requires an **Apple Silicon Mac (M1 or later)** running **macOS 12 or later**. Intel Macs are not supported by this release. The app and DMG are Developer ID signed and notarized by Apple.
 
 ## Free to use
 
